@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <label className='mystyle'>KL UNIVERSITY </label>
+      <label className='mystyle'>Hello !! How you all been ? </label>
     </>
   );
 }
